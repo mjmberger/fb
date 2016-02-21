@@ -1,2 +1,2 @@
 # fb
-Test eine Uhr für Football-Schiedrichter
+Testanwendung für eine Uhr für Football-Schiedrichter
